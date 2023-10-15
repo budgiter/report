@@ -20,63 +20,61 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contact",
+      "url": "mailto:invest@budgiter.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Budgiter",
+    "url": "https://app.budgiter.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Marketing",
+      "url": "marketing"
+    },
+    {
+      "name": "Competitive Analysis",
+      "url": "competition"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Budgiter Site",
+      "icon": "house",
+      "url": "https://budgiter.com/"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Budgiter App",
+      "icon": "window",
+      "url": "https://app.budgiter.com/"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "group": "Introduction",
+      "pages": ["budgiter", "alan-rios"]
     },
     {
-      "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+      "group": "Roadmap",
+      "pages": ["roadmap/next-steps", "roadmap/future"]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/authentication"]
+      "group": "Messaging",
+      "pages": ["marketing/name"]
     },
     {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
-      ]
+      "group": "Direct Competitors",
+      "pages": ["competition/messaging"]
+    },
+    {
+      "group": "Indirect Competitors",
+      "pages": ["competition/messaging"]
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/getbudgiter",
+    "github": "https://github.com/budgiter",
+    "linkedin": "https://www.linkedin.com/company/budgiter"
   }
 }
