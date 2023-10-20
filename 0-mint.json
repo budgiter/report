@@ -35,7 +35,7 @@
     },
     {
       "name": "Competitive Analysis",
-      "url": "competitive-analysis"
+      "url": "competition"
     }
   ],
   "anchors": [
@@ -64,10 +64,27 @@
       "pages": ["marketing/name"]
     },
     {
-      "group": "Competition",
+      "group": "Direct Competitors",
       "pages": [
-        "competitive-analysis/direct-competitors",
-        "competitive-analysis/indirect-competitors"
+        "competition/buxfer",
+        "competition/copilot",
+        "competition/countabout",
+        "competition/everydollar",
+        "competition/goodbudget",
+        "competition/mint",
+        "competition/monarch",
+        "competition/oportun",
+        "competition/pocketguard",
+        "competition/pocketsmith",
+        "competition/tiller",
+        "competition/ynab"
+      ]
+    },
+    {
+      "group": "Indirect Competitors",
+      "pages": [
+        "competition/savology",
+        "competition/stash"
       ]
     }
   ],
